@@ -12,4 +12,4 @@ How to use data from mySQL free host
 Thanks to mysqljs.com
 http://www.mysqljs.com/
 
-[!ChartfromMySQL](https://github.com/SmazControl/esp8266_mySQLconnector/blob/master/dynamic_chart.png)
+![ChartfromMySQL](https://github.com/SmazControl/esp8266_mySQLconnector/blob/master/dynamic_chart.png)
