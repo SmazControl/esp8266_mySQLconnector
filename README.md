@@ -11,3 +11,5 @@ on C:\Users\Admin\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.2\li
 How to use data from mySQL free host
 Thanks to mysqljs.com
 http://www.mysqljs.com/
+
+[!ChartfromMySQL](https://github.com/SmazControl/esp8266_mySQLconnector/blob/master/dynamic_chart.png)
