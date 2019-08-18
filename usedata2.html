@@ -13,14 +13,15 @@
         "mysmazcontrol",
         "select * from test",
         function (data) {
-     	var txt = "";
-		  for (i in data.Result) {
-		    txt += data.Result[i].id.toString()+" ";
-            txt += data.Result[i].name;
-            txt += " "+data.Result[i].price.toString()+"<br>";
-          }
-        document.getElementById("output").innerHTML = txt;
-    });
+     	   var txt = "";
+           for (i in data.Result) {
+	      txt += data.Result[i].id.toString()+" ";
+              txt += data.Result[i].name;
+              txt += " "+data.Result[i].price.toString()+"<br>";
+           }
+           document.getElementById("output").innerHTML = txt;
+	}
+    );
 </script>
 </body>
 </html>
